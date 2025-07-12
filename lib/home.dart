@@ -33,15 +33,51 @@ class _HomeState extends State<Home> {
       body: Container(
         child: Column(
           children: [
-            Expanded(child: Text('dfg')),
+            Expanded(child: MessageScreen(messages: messages)),
             Container(
-              padding: EdgeInsets.symmetric(horizontal: 30, vertical: 16),
+              padding: EdgeInsets.symmetric(horizontal: 14, vertical: 8),
               color: Colors.pink,
-              child: Row(children: []),
+              child: Row(
+                children: [
+                  Expanded(
+                    child: TextField(
+                      cursorColor: Colors.white,
+                      controller: _controller,
+                      style: TextStyle(color: Colors.white),
+                    ),
+                  ),
+                  IconButton(
+                    onPressed: () {},
+                    icon: Icon(Icons.send),
+                    color: Colors.white,
+                  ),
+                ],
+              ),
             ),
           ],
         ),
       ),
     );
+  }
+
+  sendMessage(String text) async {
+    if (text.isEmpty) {
+      showDialog(
+        context: context,
+        builder:
+            (context) => AlertDialog(
+              title: Text("Error"),
+              content: Text("Please enter a message"),
+              actions: [
+                TextButton(
+                  onPressed: () => Navigator.pop(context),
+                  child: Text("OK"),
+                ),
+              ],
+            ),
+      );
+    } else {
+      setState(() {});
+    }
   }
 }

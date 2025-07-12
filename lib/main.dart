@@ -1,3 +1,4 @@
+import 'package:chatbot/home.dart';
 import 'package:flutter/material.dart';
 
 void main() {
@@ -15,6 +16,8 @@ class MyApp extends StatelessWidget {
       theme: ThemeData(
         colorScheme: ColorScheme.fromSeed(seedColor: Colors.deepPurple),
       ),
+      debugShowCheckedModeBanner: false,
+      home: Home(),
     );
   }
 }

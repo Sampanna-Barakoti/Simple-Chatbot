@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "pie-akye",
+  "private_key_id": "defdc971834f371ae4159f0d302f73a525b41092",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQC0NoRQBs+Mf2sx\nzXaT3iAPFB1RXGVGJmU9/irwYWUrj8ST+0e1nOOfkFh5dpvksmPai3E/ztsBvq/x\nPfry6BNq0BmwvlZownFuAgHDdScMoVf5mofe5fSDki60eFYTw5Vit3t1K1j3QDEs\nPuo96kX0QnNJn/FvLTm7j29yBubVXjvVNxxDfxhugVJUzYNWeO4p7myuOsu1NNlf\nz1Ssm5F6dE/jqBU2DQATbNnRjVjJV6y/tH4j9+/mK5VKYE0C+o5iNU0U9sLPrdLX\njYD4/s6Y1ihmicCwosE5APAN7PWt79VmXvKd2gtFAbBomokuJLkI2tjgO8wA35SC\ndxLhHRRVAgMBAAECggEAMFarOPgKten7q9kr5E/hk4nWr1s0QxPLdkx14hKN25ht\npy/wtTNHDybdxH7fJAIBrL5Ye0AWGKq4cOIqLPu5MZ5uNa1oaiM138ckB/Slq8qf\nWXFs3ooaAyyz4G6i0BxXNqp2sCAXdgK+7dpWZJMxfmpQmEARt7uOz9OSlihpxHNU\n2d+IPlksdUnV9iIhEfwUxbSt4LS+b16c4eois/X/nQKo0QpMPrHoBDbtureERCl4\nHTiBd/taSFiUlU+1QO62GWHHpLTHLG/wY6kpySmnZI6Gh81TyIl404PXZbMuyYMB\nh1xIUOogZMXgfL6tVBw76Tx+T9dBfNGq4r7SM190BQKBgQD5siX48GVPCAl2M1J5\nidLUnwnoPC6JrteGLPkhsFsLmoMJUbqYk8f2hGxduc+sfg3yP0mqi7C/wIrOngit\nF0vPofUK39f/y0S2x9glc86RhGoVgpfonF3QR1U0CKLMaAij8YvXWRvQm8Z6mGL6\nT8HNWcbR0HcZju8pnlJvws0/4wKBgQC4w0gYrlD0GzfAK6xcECyp81/XazzswgGE\nacvsYiNQ7Jf23z12NjYV5D0rOwItRGdUqxPNuArOhawBSklYSpMTRbTgnWm7pTJ4\n7zI2c/91pz7tgLrvBIIzpFjYFwTOUWzhH1f0EAEvPsmhgtAs7BTzcGTX40GN0Yb8\nqLslEwQgZwKBgG+q0TqUX+pJQNoAt8is74GxImAe0f03GSHjaQM8+GqnDiUTzOxB\nYvMHY+NCnvKYaSpGTW6dDE2lES64FE88lOXlm03ir5mw0SkhFLQjJ2WCn2LBRah8\njaQA0sTze8MIX5zaAF0td7gCgm//SHyDQLvSg4z/utPOTX0CVgGvT9VbAoGAPqJs\n6XkGloo3jxz/FEKjcYXAwt1mzPhD3WikKeFnCYL7TUSGqHFeSnOSTPp3FXNv+CL6\n1q2CdFqaYeGWFalKTKk/1Tln46XwA1FLW2xdeLwWuBsAxBBqNymKuM6s4Wh3GaYv\ngdx/Gk4VunwHKINr4s8CULGIwpP6R+LHdp0ItBcCgYEAqYaM5Zix7datlsOdiFMx\n0YD98NzhJEK0LnVHPoAaT4suDClTwz9J0+GgJl/skc+VC/3xOGoQGWSzDv01YxRH\nqymx17Kq2XBpfFnbUrxNUFEfiYQR+2gSdhB3l2bbC24EvIwGJmAQfjedlxz6O/Cx\npgTFhfV13co7f3frTlTiEtM=\n-----END PRIVATE KEY-----\n",
+  "client_email": "piebot@pie-akye.iam.gserviceaccount.com",
+  "client_id": "118214177143771005436",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/piebot%40pie-akye.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
